@@ -15,6 +15,5 @@ sq.set_side(4)
 print(sq.get_diagonal())
 print(sq)
 
-
 # Run unit tests automatically
 main(module='test_module', exit=False)
